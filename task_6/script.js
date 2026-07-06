@@ -227,8 +227,8 @@ console.log(company);
 
 // Explanation:
 // var works outside the block.
-// let gives ReferenceError.
-// const gives ReferenceError.
+// let gives reference error.
+// const gives reference error.
 
 
 // Task 18 - Customer Orders
